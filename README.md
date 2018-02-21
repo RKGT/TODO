@@ -9,4 +9,4 @@ A to do list
 | MD syntax               | 42%       |
 | RKG quiz spil           | NONE      |
 | Peters mor              | DONE      |
-| Aksel søster            | Gravid    |
+| Aksels søster           | Gravid    |
