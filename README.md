@@ -10,3 +10,6 @@ A to do list
 | RKG quiz spil           | NONE      |
 | Peters mor              | DONE      |
 | Benjas søster           | Gravid    |
+
+
+Drive link : https://drive.google.com/drive/folders/13WahXhozmJU45FJ5M7ZWLJU9RsvSzvwj
